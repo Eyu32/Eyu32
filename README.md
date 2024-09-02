@@ -1,3 +1,6 @@
+###<p align="center">🖐Hi There I'm </p>
+#<p align="center">Eyu Birhanu</p> 
+
 [![](https://visitcount.itsvg.in/api?id=Eyu32&icon=10&color=13)](https://visitcount.itsvg.in)
 # 💫 About Me:
 🔭 I’m currently working on DataStructure and Algorithm<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about Web Dev <br>
