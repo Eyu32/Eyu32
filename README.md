@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=Eyu32&icon=10&color=13)](https://visitcount.itsvg.in)
 # 💫 About Me:
 🔭 I’m currently working on DataStructure and Algorithm<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about Web Dev <br>
 
@@ -18,12 +19,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Eyu32&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Eyu32&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Eyu32&icon=10&color=13)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/eyubirhanu)
